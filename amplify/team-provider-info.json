@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-equ3000frontend-dev-202220-authRole",
+            "UnauthRoleArn": "arn:aws:iam::011126495521:role/amplify-equ3000frontend-dev-202220-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::011126495521:role/amplify-equ3000frontend-dev-202220-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-equ3000frontend-dev-202220-deployment",
+            "UnauthRoleName": "amplify-equ3000frontend-dev-202220-unauthRole",
+            "StackName": "amplify-equ3000frontend-dev-202220",
+            "StackId": "arn:aws:cloudformation:eu-west-1:011126495521:stack/amplify-equ3000frontend-dev-202220/796672c0-b708-11ea-bf40-06d9f5737b32",
+            "AmplifyAppId": "d2pqpje61e8u8m"
+        }
+    }
+}
